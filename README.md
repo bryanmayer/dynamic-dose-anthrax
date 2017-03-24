@@ -7,3 +7,6 @@ Citation:
 A dynamic dose–response model to account for exposure patterns in risk assessment: a case study in inhalation anthrax
 Bryan T. Mayer, James S. Koopman, Edward L. Ionides, Josep M. Pujol, Joseph N. S. Eisenberg
 J. R. Soc. Interface 2010 -; DOI: 10.1098/rsif.2010.0491. Published 10 November 2010
+
+If you can get through the paywall, this is a cool paper that references this work and compares to  mechanistic Anthrax models:
+[Modeling Rabbit Responses to Single and Multiple Aerosol Exposures of Bacillus anthracis Spores.". Coleman, Margaret E., Harry M. Marks, Timothy A. Bartrand, Darrell W. Donahue, Stephanie A. Hines, Jason E. Comer, and Sarah C. Taft.  Risk Analysis (2017)](http://onlinelibrary.wiley.com/doi/10.1111/risa.12688/full).
