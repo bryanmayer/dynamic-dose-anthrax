@@ -2,12 +2,9 @@ This repo (will) code and data from my RSIF publication: [*A dynamic dose–resp
 
 The original analysis was done in Matlab and will recreated here in R.
 
-Citation:
+Citation:    
+Mayer, Bryan T., James S. Koopman, Edward L. Ionides, Josep M. Pujol, and Joseph NS Eisenberg. "A dynamic dose–response model to account for exposure patterns in risk assessment: a case study in inhalation anthrax." Journal of The Royal Society Interface 8, no. 57 (2011): 506-517.
 
-A dynamic dose–response model to account for exposure patterns in risk assessment: a case study in inhalation anthrax
-Bryan T. Mayer, James S. Koopman, Edward L. Ionides, Josep M. Pujol, Joseph N. S. Eisenberg
-J. R. Soc. Interface 2010 -; DOI: 10.1098/rsif.2010.0491. Published 10 November 2010
-
-If you can get through the paywall, this is a cool paper that references this work and compares to  mechanistic Anthrax models:
+If you can get through the paywall, here is a cool paper that references this work and compares to mechanistic Anthrax models:
 
 [Modeling Rabbit Responses to Single and Multiple Aerosol Exposures of Bacillus anthracis Spores. Coleman, Margaret E., Harry M. Marks, Timothy A. Bartrand, Darrell W. Donahue, Stephanie A. Hines, Jason E. Comer, and Sarah C. Taft.  Risk Analysis (2017)](http://onlinelibrary.wiley.com/doi/10.1111/risa.12688/full).
