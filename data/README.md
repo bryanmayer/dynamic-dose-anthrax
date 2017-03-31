@@ -1,4 +1,17 @@
-Data dictionary for Brachman anthrax data, original wide data
+Data dictionary for Brachman anthrax data made by clean_data.R. Only looking at runs 3 and 4
+
+|**Variable name** | **Description** | **Type** | **Categories (if applicable)** |
+|------------------|-----------------|------------------|-----------------|
+|days| days   | num | |
+|**exposure**| dose/exposure on given day  |num| |
+|**death_all**| deaths on this day (all cause) | num | |
+|**death_anthrax**| anthrax deaths on this day  | num | |
+|**total_monkeys**|  total monkeys alive on this day run 3 | num | |
+|**run**|  experiment number | num | 3,4,5 |
+
+
+
+Data dictionary for Brachman anthrax data raw, original wide data
 
 |**Variable name** | **Description** | **Type** | **Categories (if applicable)** |
 |------------------|-----------------|------------------|-----------------|
